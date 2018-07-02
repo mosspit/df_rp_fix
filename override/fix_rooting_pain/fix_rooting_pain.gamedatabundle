@@ -21,7 +21,7 @@
                     "KeywordsIDs": [
                        
                     ],
-                    "DurationType": "Infinite",
+                    "DurationType": "Instant",
                     "Duration": 0,
                     "MaxStackQuantity": 0,
                     "ApplicationBehavior": "UseLongerDurationIfAlreadyApplied",
